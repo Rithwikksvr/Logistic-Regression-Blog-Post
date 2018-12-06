@@ -1,0 +1,6 @@
+You are an idiot,1
+Good Morning idiot,1
+Good Morning buddy,0,
+Good Morning stupid,1
+Good Morning man!,0
+You are amazing!,0
